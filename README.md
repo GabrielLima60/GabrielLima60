@@ -1,12 +1,3 @@
-# Technology Stack
-
-
-# Github Stats
-[![Gabriel Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLima60&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Gabriel Lima's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima60&layout=compact)
-
-# Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60)](https://git.io/streak-stats)
-
 <h1>Hello 👋, I'm Gabriel Lima</h1>
 <p>Recent graduate in Computer Science with a focus on Data Science, Machine Learning and Databases</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -27,4 +18,4 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/gabriel.lima60/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielLima60&show_icons=true&locale=en&theme=tokyonight" alt="GabrielLima60" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima60&layout=compact&theme=tokyonight" alt="GabrielLima60" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60&" alt="GabrielLima60" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60&theme=highcontrast" alt="GabrielLima60" /></p>
