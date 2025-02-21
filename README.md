@@ -27,4 +27,4 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/gabriel.lima60/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielLima60&show_icons=true&locale=en&theme=tokyonight" alt="GabrielLima60" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima60&layout=compact&theme=tokyonight" alt="GabrielLima60" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60&theme=highcontrast" alt="GabrielLima60" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60&theme=dark" alt="GabrielLima60" /></p>
