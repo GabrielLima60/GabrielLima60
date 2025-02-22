@@ -15,7 +15,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielLima60&show_icons=true&locale=en&theme=tokyonight" alt="GabrielLima60" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima60&layout=compact&theme=tokyonight" alt="GabrielLima60" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima60&layout=compact&theme=tokyonight&hide_progress=true" alt="GabrielLima60" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLima60&theme=highcontrast" alt="GabrielLima60" /></p>
 <h2>💼 Click to see my Linkedin</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/gabriel-lima60/" style="display: inline-block;"><img src="https://github.com/GabrielLima60/GabrielLima60/blob/main/linkedin.png?raw=true" alt="linkedin" /></a>
